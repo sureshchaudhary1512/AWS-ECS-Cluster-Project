@@ -1,2 +1,2 @@
-# AWS-ECS-Cluster-Project
-Create AWS ECS Cluster 
+# aws-ecs-docker
+deploy docker container to a ecs cluster.
